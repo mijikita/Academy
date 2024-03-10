@@ -1,0 +1,151 @@
+h1 {
+    font-family: "angkor";
+    font-size: 96px;
+    margin: 0;
+    text-decoration: underline;
+    margin-left: 60px;
+}
+
+
+.p_quote {
+
+    font-size: 36px;
+    font-family: "Raleway", sans-serif;
+    margin: 0;
+    line-height: 1.8;
+
+}
+
+.p_milton {
+    font-family: "mona-sans";
+    font-size: 36px;
+    padding-left: 270px;
+
+}
+
+h2 {
+    font-size: 32px;
+    font-family: "karlout";
+    margin: 0;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+}
+
+p {
+
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.p_spravka {
+    text-align: left;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.p_aboutus {
+    font-size: 20px;
+    width: 445px;
+    text-align: left;
+    text-indent: 20px;
+}
+
+h3 {
+    width: 840px;
+    color: rgba(233, 222, 209, 1);
+    font-size: 64px;
+    border-bottom: 10px solid rgba(233, 222, 209, 1);
+    margin: 0 auto;
+    margin-bottom: 27px;
+}
+
+h5 {
+
+    width: 160px;
+    color: rgba(233, 222, 209, 1);
+    font-size: 24px;
+    border-bottom: 5px solid rgba(233, 222, 209, 1);
+    margin: 0;
+}
+
+
+.food-p {
+    padding: 20px 0 80px 0;
+    width: 830px;
+    font-size: 24px;
+    margin: 0 auto;
+}
+
+.food-headln {
+
+    margin: 15px;
+    text-align: center;
+    font-size: 48px;
+}
+
+.food-headln,
+.p_aboutus,
+.p_spravka,
+p,
+.p_aboutus,
+.cofee_h4,
+.food_h4,
+.food_h4_s {
+    color: rgba(233, 222, 209, 1);
+}
+
+.cofee_h4,
+.food_h4 {
+    margin-top: 40%;
+    margin-bottom: 0;
+    font-size: 24px
+}
+
+.food_h4_s {
+
+    margin-top: 40%;
+    margin-bottom: 0;
+    font-size: 15px
+}
+
+.food_p_s {
+    font-size: 13px;
+}
+
+
+.cofee_p,
+.food_p {
+    font-size: 20px;
+}
+
+.cofee_p2,
+.food_p2
+{
+font-size: 18px;
+color: rgba(233, 222, 209, 0.5);
+width: 420px;
+margin: 0 auto;
+}
+
+.food_p2_s{
+width: 200px;
+    font-size: 9px;
+    margin: 0 auto;
+    color: rgba(233, 222, 209, 0.5);
+
+}
+
+.cofee_p2:hover {
+    color: rgba(233, 222, 209, 1);
+    font-size: 21px;
+}
+
+.food_p2:hover {
+    color: rgba(233, 222, 209, 1);
+    font-size: 21px;
+}
+.food_p2_s:hover {
+    color: rgba(233, 222, 209, 1);
+    font-size: 12px;
+}

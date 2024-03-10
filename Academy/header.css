@@ -1,0 +1,33 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0 20px 0;
+}
+header {
+    display: flex;
+  
+}
+ol {
+    display: flex;
+    list-style-type: none;
+    margin-top: 1.5em;
+}
+
+li {
+    padding-right: 50px;
+    font-size: 32px;
+}
+
+.nav-home {
+   
+    padding: 20px;
+    color: rgba(11, 6, 2, 1);
+    font-size: 40px;
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+
+.nav-home, li{
+    font-family: "karlout";
+}
+.nav-home, header{ background: rgba(233, 222, 209, 1);}

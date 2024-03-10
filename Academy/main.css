@@ -1,0 +1,427 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+body {
+    margin: 0 auto;
+    background: rgba(11, 6, 2, 1);
+}
+
+
+#tittle {
+    display: flex;
+    color: rgba(233, 222, 209, 1);
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+#includ {
+    color: rgba(233, 222, 209, 1);
+    display: flex;
+    justify-content: space-between;
+    margin: 150px 0 150px 0;
+}
+
+#menu {
+    width: 640px;
+    margin: 0 auto;
+    margin-bottom: 150px;
+}
+
+#about_us {
+    width: 840px;
+    margin: 0 auto;
+    margin-bottom: 400px;
+    padding-top: 120px;
+}
+
+#contact_us {
+    margin-top: 150px;
+
+}
+
+
+
+.container {
+    margin: 0 auto;
+    width: 1440px;
+}
+
+.text-tittle {
+    padding-top: 150px;
+    width: 570px;
+    margin-left: 50px;
+}
+
+.card {
+    width: 220px;
+    text-align: center;
+}
+
+.food-deserts {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between
+}
+
+.bgimg_aboutus {
+    background: url("./img/aboutus.png") no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.location_flex {
+    display: flex;
+    margin: 0 auto;
+    width: 700px;
+}
+
+.adres {
+    margin-left: 10px;
+    text-align: left;
+}
+
+.logo {
+    margin-left: 46%;
+    margin-top: 20px;
+}
+
+
+
+
+.img_menu:hover {
+    transform: scale(1.1);
+}
+
+.container-food {
+    margin: 0 auto;
+    width: 933px;
+}
+
+.food-dis {
+    margin-top: 100px;
+}
+
+@font-face {
+    font-family: "karlout";
+    src: url("/fonts/Karlout.otf") format("opentype");
+
+
+}
+
+@font-face {
+    font-family: "angkor";
+    src: url("/fonts/Angkor-Regular.ttf") format("truetype");
+
+
+}
+
+@font-face {
+    font-family: "mona-sans";
+    src: url("/fonts/Mona-Sans.ttf") format("truetype");
+
+
+}
+
+.cofee-catalog {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.cofee1 {
+    background-image: url('./img/cofee1.png');
+
+}
+
+.cofee2 {
+    background-image: url('./img/cofee2.png');
+
+}
+
+.cofee3 {
+    background-image: url('./img/cofee3.png');
+
+}
+
+.cofee4 {
+    background-image: url('./img/cofee4.png');
+
+}
+
+.cofee5 {
+    background-image: url('./img/cofee5.png');
+
+}
+
+.cofee6 {
+    background-image: url('./img/cofee6.png');
+
+}
+
+.cofee7 {
+    background-image: url('./img/cofee7.png');
+
+}
+
+.cofee8 {
+    background-image: url('./img/cofee8.png');
+
+}
+
+.cofee9 {
+    background-image: url('./img/cofee9.png');
+
+}
+
+.cofee10 {
+    background-image: url('./img/cofee10.png');
+
+}
+
+
+.cofee1,
+.cofee2,
+.cofee3,
+.cofee4,
+.cofee5,
+.cofee6,
+.cofee7,
+.cofee8,
+.cofee9,
+.cofee10 {
+    width: 470px;
+    height: 470px;
+    margin: 30px;
+
+}
+
+.cofee2:hover {
+    transform: scale(1.1);
+
+}
+
+.cofee3:hover {
+    transform: scale(1.1);
+}
+
+.cofee4:hover {
+    transform: scale(1.1);
+}
+
+.cofee5:hover {
+    transform: scale(1.1);
+}
+
+.cofee6:hover {
+    transform: scale(1.1);
+}
+
+.cofee7:hover {
+    transform: scale(1.1);
+}
+
+.cofee8:hover {
+    transform: scale(1.1);
+}
+
+.cofee9:hover {
+    transform: scale(1.1);
+}
+
+.cofee10:hover {
+    transform: scale(1.1);
+}
+
+.cofee1:hover {
+    transform: scale(1.1);
+}
+
+.food-catalog {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.food1_b {
+    background-image: url('./img/food1_b.png');
+    
+}
+
+.food2_b {
+    background-image: url('./img/food2_b.png');
+  
+}
+.food7_b {
+    background-image: url('./img/food7_b.png');
+  
+}
+.food8_b {
+    background-image: url('./img/food8_b.png');
+  
+}
+.food13_b {
+    background-image: url('./img/food13_b.png');
+  
+}
+.food14_b {
+    background-image: url('./img/food14_b.png');
+  
+}
+
+.food3_s {
+    background-image: url('./img/food3_s.png');
+}
+
+.food4_s {
+    background-image: url('./img/food4_s.png');
+}
+
+.food5_s {
+    background-image: url('./img/food5_s.png');
+}
+
+.food6_s {
+    background-image: url('./img/food6_s.png');
+}
+.food9_s {
+    background-image: url('./img/food9_s.png');
+}
+.food10_s {
+    background-image: url('./img/food10_s.png');
+}
+.food11_s {
+    background-image: url('./img/food11_s.png');
+}
+.food12_s {
+    background-image: url('./img/food12_s.png');
+}
+.food15_s {
+    background-image: url('./img/food15_s.png');
+}
+.food16_s {
+    background-image: url('./img/food16_s.png');
+}
+.food17_s {
+    background-image: url('./img/food17_s.png');
+}
+.food18_s {
+    background-image: url('./img/food18_s.png');
+}
+
+
+
+.food18_s,
+ .food17_s, 
+ .food16_s, 
+ .food15_s, 
+ .food12_s, 
+ .food11_s, 
+ .food10_s, 
+ .food9_s, 
+ .food3_s,
+  .food4_s, 
+  .food5_s, 
+  .food6_s
+ {
+    margin: 20px;
+    width: 225px;
+    height: 225px;
+}
+.food2_b,
+.food1_b,
+.food7_b,
+.food8_b,
+.food13_b,
+.food14_b
+{  
+    width: 490px;
+    height: 490px;
+    margin: 20px;}
+
+    .food1_b:hover {
+        transform: scale(1.1);
+    
+    }
+    .food2_b:hover {
+        transform: scale(1.1);
+    
+    }
+    .food7_b:hover {
+        transform: scale(1.1);
+    
+    }
+    .food8_b:hover {
+        transform: scale(1.1);
+    
+    }
+    .food13_b:hover {
+        transform: scale(1.1);
+    
+    }
+    .food14_b:hover {
+        transform: scale(1.1);
+    
+    }
+
+    .food3_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .food4_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .food5_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .food6_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .food9_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .food10_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .food11_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .food12_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .food15_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .food16_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .food17_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .food18_s:hover {
+        transform: scale(1.1);
+    
+    }
+    .puty{
+        display: flex;
+        justify-content: space-between;
+    }
+
+ 
+
